@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Hi, I'm Manan Gajera, a backend-first full stack developer from India with a strong focus on building reliable, scalable, and secure web applications.<br><br>I enjoy designing APIs, working with databases, and crafting efficient backend systems—while also building clean and functional frontends when needed.<br><br>I’m passionate about problem-solving, learning new technologies, and contributing to impactful projects.<br><br>
-
+Check out my portfolio: [portfolio-beige-phi-59.vercel.app](https://portfolio-beige-phi-59.vercel.app/)<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-gajera-007379238) 
